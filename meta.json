@@ -1,0 +1,23 @@
+{
+  "repo": "izotope-rx-11-advanced",
+  "product": "iZotope RX 11 Advanced",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "audio-repair",
+  "topics": [
+    "izotope-rx",
+    "audio-repair-desktop",
+    "dialogue-cleanup",
+    "spectral-edit-tools",
+    "rx-windows",
+    "post-audio-2026",
+    "how-to-install-rx",
+    "rx-desktop-package",
+    "podcast-repair-suite",
+    "izotope-rx11"
+  ],
+  "site": "toolix.me"
+}
